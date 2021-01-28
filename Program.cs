@@ -17,7 +17,7 @@ namespace Deliverable2_IterativeStatement
             //this will be the interative statement for deliverable 2
             while (count <= number)
             {
-                Console.WriteLine("You have entered #. This is the current interger value in the loop: " + number);
+                Console.WriteLine("You have entered " + number + ". "+ "This is the current interger value in the loop: " + number);
                 count = count + 1;
             }
           
